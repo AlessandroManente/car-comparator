@@ -1,0 +1,3 @@
+nome,età,tipo,consumo_benzina_litro_urbano,consumo_benzina_litro_extraurbano,consumo_gpl_litro_urbano,consumo_gpl_litro_extraurbano,percentuale_gpl,percentuale_urbano,potenza,costo_iniziale,costo_manutenzione
+Sandero_Streetway_2021,0,GPL,5.4,0,7,0,0.66,1,74,14500,250
+Toyota_Yaris_Cross_2022,0,BENZINA,4.4,0,0,0,0,1,85,23150,150
