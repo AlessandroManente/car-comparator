@@ -256,6 +256,7 @@ def compara_due_auto(auto_1, auto_2, anni, dati_auto_1, dati_auto_2):
     ax.text(0,y_2[-1], "{:.0f}".format(y_2[-1]), color="blue", transform=trans, 
         ha="right", va="center")
     ax.set_xticks(x)
+    plt.legend()
     plt.show()
 
 
